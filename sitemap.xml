@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="">
+<url>
+    <loc>index.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+</url>
+<url>
+    <loc>usluge.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>galerija.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>kontakt.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>registracija.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+</url>
+<url>
+    <loc>autor.html</loc>
+    <lastmod>2021-12-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+</url>
+</urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <item>
+        <title>Salon Lilly</title>
+        <description>Kupanje, sisanje i nega ljubimaca</description>
+        <link>index.html</link>
+    </item>
+    <item>
+        <title>Usluge u salonu</title>
+        <description>Usluge koje salon nudi i cene</description>
+        <link>usluge.html</link>
+    </item>
+    <item>
+        <title>Galerija slika</title>
+        <description>Pogledajte fotografije ulepšanih ljubimaca</description>
+        <link>galerija.html</link>
+    </item>
+    <item>
+        <title>Kontakt</title>
+        <description>Posaljite nam poruku i zakazite se</description>
+        <link>kontakt.html</link>
+    </item>
+</channel>
+</rss>
